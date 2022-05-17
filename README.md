@@ -1,4 +1,4 @@
-# drag demo
+# Flame Drag Example
 
 ![screenshot](readme_assets/screencast.gif)
 
