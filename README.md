@@ -2,7 +2,7 @@
 
 ![screenshot](readme_assets/screencast.gif)
 
-[Web Demo](https://codetricity.github.io/drag_example/
+[Web Demo](https://codetricity.github.io/drag_example/)
 
 ## Environment
 
