@@ -2,6 +2,8 @@
 
 ![screenshot](readme_assets/screencast.gif)
 
+[Web Demo](https://codetricity.github.io/drag_example/
+
 ## Environment
 
 * Flame 1.1.1
