@@ -1,5 +1,5 @@
 name: drag
-description: A new Flutter project.
+description: Drag demo
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -19,6 +19,11 @@ version: 1.0.0+1
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
+  flutter: "^3.0.0"
+  # info below is for flutter 2.10.0, which is the version used in the
+  # flame examples
+  # sdk: ">=2.16.0 <3.0.0"
+  # flutter: ">=2.10.0"
 
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions

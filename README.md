@@ -1,4 +1,4 @@
-# Flame Drag Example
+# Flame Drag Example With Flutter 3.0 and Flame 1.1.1
 
 ![screenshot](readme_assets/screencast.gif)
 
